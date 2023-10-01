@@ -1,0 +1,14 @@
+Recent jobs - http://127.0.0.1:8000/
+company edit - http://127.0.0.1:8000/company/create
+company reg - http://127.0.0.1:8000/employer/profile
+user edit - http://127.0.0.1:8000/user/profile
+user reg - http://127.0.0.1:8000/register
+login - http://127.0.0.1:8000/login
+
+pre designs
+home - http://127.0.0.1:8000/pre_home
+about - http://127.0.0.1:8000/pre_about
+all jobs - http://127.0.0.1:8000/pre_jobs
+contact - http://127.0.0.1:8000/pre_contact
+job view - http://127.0.0.1:8000/pre_view_job
+company view - http://127.0.0.1:8000/pre_view_company
